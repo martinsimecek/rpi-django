@@ -1,5 +1,5 @@
 # RPi Django
-Raspberry Django
+Raspberry Django (setup guide)
 
 ## Basic info
 - Owner: Martin Simecek
